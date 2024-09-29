@@ -8,7 +8,7 @@ password through the console. After successful authentication, the user receives
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Solution structure](#solution structure)
+- [Solution structure](#Solution structure)
 
 ## Installation
 1. Clone the repo from `https://github.com/TaniaY/RestApiApp
